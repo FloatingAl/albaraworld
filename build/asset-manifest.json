@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/albaraworld/static/css/main.a617e044.chunk.css",
+    "main.js": "/albaraworld/static/js/main.86b0c7b7.chunk.js",
+    "main.js.map": "/albaraworld/static/js/main.86b0c7b7.chunk.js.map",
+    "runtime-main.js": "/albaraworld/static/js/runtime-main.e2fa3572.js",
+    "runtime-main.js.map": "/albaraworld/static/js/runtime-main.e2fa3572.js.map",
+    "static/js/2.a4bed895.chunk.js": "/albaraworld/static/js/2.a4bed895.chunk.js",
+    "static/js/2.a4bed895.chunk.js.map": "/albaraworld/static/js/2.a4bed895.chunk.js.map",
+    "static/js/3.03b50318.chunk.js": "/albaraworld/static/js/3.03b50318.chunk.js",
+    "static/js/3.03b50318.chunk.js.map": "/albaraworld/static/js/3.03b50318.chunk.js.map",
+    "index.html": "/albaraworld/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/albaraworld/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a4bed895.chunk.js.LICENSE.txt": "/albaraworld/static/js/2.a4bed895.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/albaraworld/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2fa3572.js",
+    "static/js/2.a4bed895.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.86b0c7b7.chunk.js"
+  ]
+}
