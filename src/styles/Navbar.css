@@ -1,0 +1,22 @@
+.bg-navbarcolor {
+    background-color: #141824;
+}
+
+
+.navlink:hover {
+    color: #C03265;
+}
+
+.navlink {
+    margin: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Arvo', serif;
+}
+
+.iconlink:hover {
+    fill:#C03265;
+}
+
