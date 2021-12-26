@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/albaraworld/static/css/main.dd16f4b0.chunk.css",
-    "main.js": "/albaraworld/static/js/main.3148c53d.chunk.js",
-    "main.js.map": "/albaraworld/static/js/main.3148c53d.chunk.js.map",
+    "main.css": "/albaraworld/static/css/main.eac1e121.chunk.css",
+    "main.js": "/albaraworld/static/js/main.5cab2d20.chunk.js",
+    "main.js.map": "/albaraworld/static/js/main.5cab2d20.chunk.js.map",
     "runtime-main.js": "/albaraworld/static/js/runtime-main.f4ff9bca.js",
     "runtime-main.js.map": "/albaraworld/static/js/runtime-main.f4ff9bca.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/albaraworld/static/css/2.8c0e6b67.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.520a772a.chunk.js.map": "/albaraworld/static/js/3.520a772a.chunk.js.map",
     "index.html": "/albaraworld/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/albaraworld/static/css/2.8c0e6b67.chunk.css.map",
-    "static/css/main.dd16f4b0.chunk.css.map": "/albaraworld/static/css/main.dd16f4b0.chunk.css.map",
+    "static/css/main.eac1e121.chunk.css.map": "/albaraworld/static/css/main.eac1e121.chunk.css.map",
     "static/js/2.3c3356a0.chunk.js.LICENSE.txt": "/albaraworld/static/js/2.3c3356a0.chunk.js.LICENSE.txt",
     "static/media/logo.6774fe49.png": "/albaraworld/static/media/logo.6774fe49.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.f4ff9bca.js",
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.3c3356a0.chunk.js",
-    "static/css/main.dd16f4b0.chunk.css",
-    "static/js/main.3148c53d.chunk.js"
+    "static/css/main.eac1e121.chunk.css",
+    "static/js/main.5cab2d20.chunk.js"
   ]
 }
